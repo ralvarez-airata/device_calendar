@@ -1,3 +1,5 @@
+#import "DeviceCalendarPlugin.h"
+
 #if __has_include(<device_calendar/device_calendar-Swift.h>)
 #import <device_calendar/device_calendar-Swift.h>
 #else
